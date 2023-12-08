@@ -3,3 +3,5 @@
 /gltf/library.wasm
 /.idea/
 /cmake-build-*/
+.vs/
+out/
